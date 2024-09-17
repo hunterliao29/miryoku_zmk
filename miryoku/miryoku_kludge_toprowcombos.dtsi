@@ -49,6 +49,8 @@ toprowcombos_ ## LAYER ## _ ## POSITION { \
     #error "Not implemented. See https://github.com/manna-harbour/miryoku/issues/56"
   #elif defined (MIRYOKU_ALPHAS_COLEMAK)
     #error "Not implemented. See https://github.com/manna-harbour/miryoku/issues/56"
+  #elif defined (MIRYOKU_ALPHAS_GRAPHITE)
+    #error "Not implemented. See https://github.com/manna-harbour/miryoku/issues/56"
   #elif defined (MIRYOKU_ALPHAS_COLEMAKDHK)
     #error "Not implemented. See https://github.com/manna-harbour/miryoku/issues/56"
   #elif defined (MIRYOKU_ALPHAS_DVORAK)

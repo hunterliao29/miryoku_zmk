@@ -22,6 +22,7 @@ on:
         - "AZERTY"
         - "BEAKL15"
         - "Colemak"
+        - "Graphite"
         - "ColemakDHK"
         - "Dvorak"
         - "Halmak"
